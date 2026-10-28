@@ -1,8 +1,6 @@
 # LLM-Based Multi-Agent Systems for Circular Manufacturing
 
-A curated collection of papers on LLM-based multi-agent systems for circular manufacturing, including remanufacturing, disassembly, recycling, and transferable manufacturing methods.
-
-Dates use the precision available from the source. **Online** means online publication; **issue** means the journal volume/issue date; **proceedings** means the conference publication year or month.
+Last updated: 2026-10-28.
 
 ## Circular Manufacturing and Circular Economy
 
@@ -12,13 +10,11 @@ Includes circular manufacturing applications, hybrid LLM–MAS inspection, recyc
 | --- | --- | --- |
 | [Agentic active Asset Administration Shell for circular manufacturing](https://doi.org/10.1016/j.jmsy.2026.07.011) | Journal of Manufacturing Systems, 88 | 2026-10 (issue) |
 | [Human–robot collaboration in building disassembly: a multi-agent LLM architecture](https://doi.org/10.1007/s41693-026-00189-x) | Construction Robotics, 10, Article 23 | 2026-07-06 (online) |
-| [Transforming remanufacturing automation with large language models: A forward-looking analysis with case studies](https://doi.org/10.1016/j.rcim.2026.103361) † | Robotics and Computer-Integrated Manufacturing, 103 (2027) | 2026-06-25 (online) |
+| [Transforming remanufacturing automation with large language models: A forward-looking analysis with case studies](https://doi.org/10.1016/j.rcim.2026.103361) | Robotics and Computer-Integrated Manufacturing, 103 (2027) | 2026-06-25 (online) |
 | [Large language model integration in agent-based modeling for the simulation and recycling system](https://doi.org/10.1016/j.resconrec.2026.108968) | Resources, Conservation and Recycling, 232 | 2026-06-10 (issue) |
 | [Intelligent Disassembly System for PCB Components Integrating Multimodal Large Language Model and Multi-Agent Framework](https://doi.org/10.3390/pr14020227) | Processes, 14(2), Article 227 | 2026-01-08 (online) |
 | [LLM-Powered Multi-Agent System for Automated Error Detection in Remanufacturing Inspection](https://doi.org/10.1016/j.procir.2025.09.022) | Procedia CIRP, 139 (CIRPe 2025) | 2026 (issue) |
 | [Interdisciplinary Co-design with LLM-Based Multi-agents: A Human-AI Platform for Complex Design Challenges](https://doi.org/10.1007/978-3-031-93733-0_25) | HCII 2025 — Cross-Cultural Design, LNCS 15783 | 2025-05-25 (online) |
-
-† Review and conceptual multi-agent framework (ReManGPT), with case studies evaluating selected modules. Published online in 2026 and assigned to a 2027 journal volume.
 
 ## Related Manufacturing Applications
 
@@ -47,5 +43,3 @@ General frameworks and surveys supporting the development of LLM-based multi-age
 | [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://proceedings.iclr.cc/paper_files/paper/2024/hash/6507b115562bb0a305f1958ccc87355a-Abstract-Conference.html) | ICLR 2024 | 2024 (proceedings) |
 | [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://proceedings.iclr.cc/paper_files/paper/2024/hash/578e65cdee35d00c708d4c64bce32971-Abstract-Conference.html) | ICLR 2024 | 2024 (proceedings) |
 | [CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html) | NeurIPS 2023 | 2023 (proceedings) |
-
-Last updated: 2026-10-28.
